@@ -18,7 +18,7 @@
 
 ## 🎯 What I solve
 
-> Your AI strategy is only as valuable as what actually ships — and what it changes for the business.
+> With a focus on responsible, explainable and adoption to deliver real impact
 
 - 🤖 **Customer support that scales** — RAG chatbots and AI assistants that resolve the repetitive 70%, so your team handles what matters
 - 🧠 **Workflows that run themselves** — Multi-agent systems that complete research, analysis, and follow-ups end-to-end

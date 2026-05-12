@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shakti 👋</h1>
 
-<h3 align="center"><i>I turn AI ideas into business outcomes — not just demos.</i></h3>
+<h3 align="center"><i>I turn AI ideas into business outcomes!</i></h3>
 
 <p align="center">
   AI / Tech Product Manager who <b>owns the problem end-to-end</b> —<br/>
@@ -32,7 +32,7 @@
 
 ## 🛠 The stack behind the strategy
 
-> Tools I reach for to ship. Not a wishlist — what I actually use.
+> Tools for value creation
 
 **Languages**
 

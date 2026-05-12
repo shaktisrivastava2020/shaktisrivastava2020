@@ -85,7 +85,7 @@
 
 ## 🚀 Featured Work
 
-> Three connected, live-deployed projects — the product, the model, and the ops layer that keeps it honest.
+> Three connected, live-deployed projects — the product, the model, and the ops automation.
 
 | Project | Problem it solves |
 | :--- | :--- |

@@ -1,37 +1,60 @@
 <h1 align="center">Hi, I'm Shakti 👋</h1>
 
-<h3 align="center">I build & ship complete AI products — end-to-end.</h3>
+<h3 align="center"><i>I turn AI ideas into business outcomes — not just demos.</i></h3>
 
 <p align="center">
-  You bring the idea. I deliver the working system:<br/>
-  <b>Model → API → Frontend → Deployment → Automation.</b><br/>
-  One person. No handoffs. No waiting on three different freelancers.
+  AI / Tech Product Manager who <b>owns the problem end-to-end</b> —<br/>
+  from the strategy on the whiteboard, to the model in production,<br/>
+  to the API your customers call and the metrics that prove it worked.
 </p>
 
 <p align="center">
   📍 Bengaluru, India &nbsp;·&nbsp;
-  🌐 Available remote (US / EU / UK timezones) &nbsp;·&nbsp;
+  🌐 Remote (US / EU / UK timezones) &nbsp;·&nbsp;
   💼 <a href="https://www.linkedin.com/in/shaktisrivastava2020/">LinkedIn</a>
 </p>
 
 ---
 
-## 🎯 What I deliver
+## 🎯 What I solve
 
-> Most AI freelancers stop at the notebook. I take it all the way to a deployed product your users can actually use.
+> Your AI strategy is only as valuable as what actually ships — and what it changes for the business.
 
-- 🤖 **GenAI Apps & Chatbots** — RAG, custom GPTs, document Q&A, knowledge assistants
-- 🧠 **AI Agents & Automation** — LangGraph / LangChain agents, multi-step workflows, tool-use
-- 🔌 **MCP Integrations** — connect your AI to any service via Model Context Protocol
-- 🎙️ **Speech AI** — transcription, voice agents, real-time audio (Whisper, ElevenLabs, Deepgram)
-- 👁️ **Vision AI** — OCR, object detection, image search, visual QA (OpenCV, YOLO, CLIP)
-- ⚙️ **APIs & Backends** — production-grade FastAPI services, auth, rate-limiting, async jobs
-- 💻 **Frontends** — React / Next.js dashboards and chat UIs, or quick Streamlit demos
-- ☁️ **Deployment & MLOps** — Docker, AWS, GCP, CI/CD, monitoring — your AI runs reliably
+- 🤖 **Customer support that scales** — RAG chatbots and AI assistants that resolve the repetitive 70%, so your team handles what matters
+- 🧠 **Workflows that run themselves** — Multi-agent systems that complete research, analysis, and follow-ups end-to-end
+- 📄 **Documents turned into decisions** — Insights pulled from contracts, invoices, reports, and PDFs at scale
+- 🎙️ **Voice as a product** — Transcription pipelines, voice agents, real-time meeting intelligence
+- 👁️ **Vision as a capability** — OCR, quality inspection, visual search, image moderation
+- 🔌 **AI plugged into your world** — MCP integrations so your AI works with the tools your team already lives in
+- 📈 **Outcomes you can measure** — Every product I ship is instrumented, so we know what's working and what isn't
 
 ---
 
-## 🛠 Stack
+## 💡 How I work
+
+Most AI projects don't fail because the tech is wrong. They fail because no one owns the gap between strategy and shipped product. **That's the gap I close.**
+
+1. **Start with the problem, not the model.** Discovery first. I scope what's worth building before a line of code gets written.
+2. **Prototype fast. Validate early.** A working demo in days, not months. We learn what's real before committing the budget.
+3. **Own the whole system.** Model, API, frontend, infrastructure. No "throwing it over the wall" between layers — the seams are where products die.
+4. **Ship where it counts.** Deployed, monitored, instrumented. Live for users, measurable for the business.
+5. **Iterate on outcomes.** Track what matters. Kill what doesn't. Double down on what works.
+
+---
+
+## 🚀 Featured Work
+
+| Project | Problem it solves |
+| :--- | :--- |
+| [**`agentic-ai-workflows-finance`**](https://github.com/shaktisrivastava2020/agentic-ai-workflows-finance) | Automates complex multi-step financial workflows — planning, tool-use, and human-in-the-loop gates that keep decisions auditable. |
+| [**`eu-ai-act-ml-pipeline`**](https://github.com/shaktisrivastava2020/eu-ai-act-ml-pipeline) | The production ML wiring most teams skip — ingestion, training, deployment, and monitoring, all in one reference architecture. |
+| [**`explainable-ml-anomaly-detection`**](https://github.com/shaktisrivastava2020/explainable-ml-anomaly-detection) | Flags fraud and risk events with reasoning your ops team can trust and act on — not just a black-box alert. |
+
+---
+
+## 🛠 The stack behind the strategy
+
+> Tools I reach for to ship. Not a wishlist — what I actually use.
 
 **Languages**
 
@@ -50,7 +73,7 @@
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge)
 
-**ML / Speech / Vision**
+**ML · Speech · Vision**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -67,7 +90,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Cloud, DevOps & Automation**
+**Cloud · DevOps · Automation**
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -75,16 +98,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
----
-
-## 🚀 Featured Work
-
-| Project | What it is |
-| :--- | :--- |
-| [**`agentic-ai-workflows-finance`**](https://github.com/shaktisrivastava2020/agentic-ai-workflows-finance) | **Multi-agent AI system** — orchestrated agents with planning, tool-use, and human-in-the-loop checkpoints. Built with LangGraph + OpenAI. |
-| [**`eu-ai-act-ml-pipeline`**](https://github.com/shaktisrivastava2020/eu-ai-act-ml-pipeline) | **Production ML pipeline** — end-to-end data ingestion, training, deployment, and monitoring on AWS with Docker + MLflow. |
-| [**`explainable-ml-anomaly-detection`**](https://github.com/shaktisrivastava2020/explainable-ml-anomaly-detection) | **AI anomaly detection** — fraud / risk detection model with explainable outputs (SHAP) ready for production use. |
 
 ---
 
@@ -102,12 +115,14 @@
 
 ---
 
-## 🤝 Hire me
+## 🤝 Let's work together
 
-- 💼 **Freelance:** available on Upwork — chatbots, AI agents, RAG, automation, MLOps, end-to-end products
-- 🌍 **Remote roles:** open to AI Developer / Tech PM positions (US / EU / UK)
-- 📬 **Best contact:** [LinkedIn](https://www.linkedin.com/in/shaktisrivastava2020/) — usually reply within 24 hrs
+You have an AI initiative stuck between idea and impact. I'll own it from here.
+
+- 💼 **Freelance** — available on Upwork for end-to-end AI builds
+- 🌍 **Remote roles** — open to AI Product / Tech PM positions (US / EU / UK)
+- 📬 **Reach me on [LinkedIn](https://www.linkedin.com/in/shaktisrivastava2020/)** — I respond within 24 hours
 
 ---
 
-<p align="center"><b>If you've got an AI idea sitting in a doc somewhere, let's ship it.</b></p>
+<p align="center"><b><i>From idea to outcome. That's the whole job.</i></b></p>

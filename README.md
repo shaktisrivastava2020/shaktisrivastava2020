@@ -30,28 +30,6 @@
 
 ---
 
-## 💡 How I work
-
-Most AI projects don't fail because the tech is wrong. They fail because no one owns the gap between strategy and shipped product. **That's the gap I close.**
-
-1. **Start with the problem, not the model.** Discovery first. I scope what's worth building before a line of code gets written.
-2. **Prototype fast. Validate early.** A working demo in days, not months. We learn what's real before committing the budget.
-3. **Own the whole system.** Model, API, frontend, infrastructure. No "throwing it over the wall" between layers — the seams are where products die.
-4. **Ship where it counts.** Deployed, monitored, instrumented. Live for users, measurable for the business.
-5. **Iterate on outcomes.** Track what matters. Kill what doesn't. Double down on what works.
-
----
-
-## 🚀 Featured Work
-
-| Project | Problem it solves |
-| :--- | :--- |
-| [**`agentic-ai-workflows-finance`**](https://github.com/shaktisrivastava2020/agentic-ai-workflows-finance) | Automates complex multi-step financial workflows — planning, tool-use, and human-in-the-loop gates that keep decisions auditable. |
-| [**`eu-ai-act-ml-pipeline`**](https://github.com/shaktisrivastava2020/eu-ai-act-ml-pipeline) | The production ML wiring most teams skip — ingestion, training, deployment, and monitoring, all in one reference architecture. |
-| [**`explainable-ml-anomaly-detection`**](https://github.com/shaktisrivastava2020/explainable-ml-anomaly-detection) | Flags fraud and risk events with reasoning your ops team can trust and act on — not just a black-box alert. |
-
----
-
 ## 🛠 The stack behind the strategy
 
 > Tools I reach for to ship. Not a wishlist — what I actually use.
@@ -98,6 +76,16 @@ Most AI projects don't fail because the tech is wrong. They fail because no one 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+---
+
+## 🚀 Featured Work
+
+| Project | Problem it solves |
+| :--- | :--- |
+| [**`agentic-ai-workflows-finance`**](https://github.com/shaktisrivastava2020/agentic-ai-workflows-finance) | Automates complex multi-step financial workflows — planning, tool-use, and human-in-the-loop gates that keep decisions auditable. |
+| [**`eu-ai-act-ml-pipeline`**](https://github.com/shaktisrivastava2020/eu-ai-act-ml-pipeline) | The production ML wiring most teams skip — ingestion, training, deployment, and monitoring, all in one reference architecture. |
+| [**`explainable-ml-anomaly-detection`**](https://github.com/shaktisrivastava2020/explainable-ml-anomaly-detection) | Flags fraud and risk events with reasoning your ops team can trust and act on — not just a black-box alert. |
 
 ---
 

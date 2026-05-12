@@ -10,7 +10,7 @@
 
 <p align="center">
   📍 Bengaluru, India &nbsp;·&nbsp;
-  🌐 Remote (US / EU / UK timezones) &nbsp;·&nbsp;
+  🌐 Remote (US / EU / UK / AUS / CA timezones) &nbsp;·&nbsp;
   💼 <a href="https://www.linkedin.com/in/shaktisrivastava2020/">LinkedIn</a>
 </p>
 

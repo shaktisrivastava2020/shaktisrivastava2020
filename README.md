@@ -18,7 +18,7 @@
 
 ## 🎯 What I solve
 
-> With a focus on responsible development, explainable outcome and higher user adoption to deliver real impact!
+> With a focus on responsible development, explainable outcome and higher user adoption that delivers real impact!
 
 - 🤖 **Customer support that scales** — RAG chatbots and AI assistants that resolve the repetitive 70%, so your team handles what matters
 - 🧠 **Workflows that run themselves** — Multi-agent systems that complete research, analysis, and follow-ups end-to-end

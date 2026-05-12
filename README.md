@@ -108,8 +108,8 @@
 You have an AI initiative stuck between idea and impact. I'll own it from here.
 
 - 💼 **Freelance** — available for end-to-end AI builds and value delivery
-- 🌍 **Remote roles** — open to AI Product / Tech PM positions (US / EU / UK / AUS / Canada)
-- 📬 **Reach me on [LinkedIn](https://www.linkedin.com/in/shaktisrivastava2020/)** — I respond within 24 hours
+- 🌍 **Remote roles** — open to AI Product / Tech PM positions (US / EU / UK / AUS / CA)
+- 📬 **Reach me on [LinkedIn](https://www.linkedin.com/in/shaktisrivastava2020/)** 
 
 ---
 

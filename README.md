@@ -32,7 +32,7 @@
 
 ## 🛠 The stack behind the strategy
 
-> Tools I reach for to ship. Not a wishlist — what I actually use.
+> Tools for value creation
 
 **Languages**
 

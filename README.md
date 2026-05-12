@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shakti 👋</h1>
 
-<h3 align="center"><i>I turn AI ideas into business outcomes!</i></h3>
+<h3 align="center"><i>I turn AI ideas into business outcomes — not just demos.</i></h3>
 
 <p align="center">
   AI / Tech Product Manager who <b>owns the problem end-to-end</b> —<br/>
@@ -18,7 +18,7 @@
 
 ## 🎯 What I solve
 
-> With a focus on responsible development, explainable outcome and higher user adoption to deliver real impact!!!
+> Your AI strategy is only as valuable as what actually ships — and what it changes for the business.
 
 - 🤖 **Customer support that scales** — RAG chatbots and AI assistants that resolve the repetitive 70%, so your team handles what matters
 - 🧠 **Workflows that run themselves** — Multi-agent systems that complete research, analysis, and follow-ups end-to-end
@@ -30,9 +30,33 @@
 
 ---
 
+## 💡 How I work
+
+Most AI projects don't fail because the tech is wrong. They fail because no one owns the gap between strategy and shipped product. **That's the gap I close.**
+
+1. **Start with the problem, not the model.** Discovery first. I scope what's worth building before a line of code gets written.
+2. **Prototype fast. Validate early.** A working demo in days, not months. We learn what's real before committing the budget.
+3. **Own the whole system.** Model, API, frontend, infrastructure. No "throwing it over the wall" between layers — the seams are where products die.
+4. **Ship where it counts.** Deployed, monitored, instrumented. Live for users, measurable for the business.
+5. **Iterate on outcomes.** Track what matters. Kill what doesn't. Double down on what works.
+
+---
+
+## 🚀 Featured Work
+
+> Three connected, live-deployed projects — the product, the model, and the ops layer that keeps it honest.
+
+| Project | Problem it solves |
+| :--- | :--- |
+| [**`quickshop-ai`**](https://github.com/shaktisrivastava2020/quickshop-ai) &nbsp;·&nbsp; [▶ Live demo](https://quickshop-ui-218990051802.asia-south1.run.app) | E-commerce AI assistant that answers **both** policy questions (RAG over PDFs) **and** business data questions (NL2SQL on Cloud SQL) in one chat. React + FastAPI + Vertex AI Gemini, deployed on Cloud Run. |
+| [**`churn-predictor`**](https://github.com/shaktisrivastava2020/churn-predictor) &nbsp;·&nbsp; [▶ Live API](https://churn-api-218990051802.asia-south1.run.app) | Production churn-prediction service tuned for **recall over headline accuracy** — catches 8 of 10 churners because missing one costs more than a false alarm. PyTorch + FastAPI on Cloud Run. |
+| [**`mlops-pipeline`**](https://github.com/shaktisrivastava2020/mlops-pipeline) &nbsp;·&nbsp; [▶ Live dashboard](https://mlops-api-218990051802.asia-south1.run.app/dashboard) | Production MLOps layer keeping the churn model honest — drift detection (KS / PSI), automated retraining, and a **fairness-aware promotion gate that blocks any model that hurts a customer segment, even if overall metrics improve.** |
+
+---
+
 ## 🛠 The stack behind the strategy
 
-> Tools for value creation
+> Tools I reach for to ship. Not a wishlist — what I actually use.
 
 **Languages**
 
@@ -44,10 +68,12 @@
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B3FE4?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge)
 
@@ -70,22 +96,13 @@
 
 **Cloud · DevOps · Automation**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
----
-
-## 🚀 Featured Work
-
-| Project | Problem it solves |
-| :--- | :--- |
-| [**`agentic-ai-workflows-finance`**](https://github.com/shaktisrivastava2020/agentic-ai-workflows-finance) | Automates complex multi-step financial workflows — planning, tool-use, and human-in-the-loop gates that keep decisions auditable. |
-| [**`eu-ai-act-ml-pipeline`**](https://github.com/shaktisrivastava2020/eu-ai-act-ml-pipeline) | The production ML wiring most teams skip — ingestion, training, deployment, and monitoring, all in one reference architecture. |
-| [**`explainable-ml-anomaly-detection`**](https://github.com/shaktisrivastava2020/explainable-ml-anomaly-detection) | Flags fraud and risk events with reasoning your ops team can trust and act on — not just a black-box alert. |
 
 ---
 
@@ -107,9 +124,9 @@
 
 You have an AI initiative stuck between idea and impact. I'll own it from here.
 
-- 💼 **Freelance** — available for end-to-end AI builds and value delivery
-- 🌍 **Remote roles** — open to AI Product / Tech PM positions (US / EU / UK / AUS / CA)
-- 📬 **Reach me on [LinkedIn](https://www.linkedin.com/in/shaktisrivastava2020/)** 
+- 💼 **Freelance** — available on Upwork for end-to-end AI builds
+- 🌍 **Remote roles** — open to AI Product / Tech PM positions (US / EU / UK)
+- 📬 **Reach me on [LinkedIn](https://www.linkedin.com/in/shaktisrivastava2020/)** — I respond within 24 hours
 
 ---
 
